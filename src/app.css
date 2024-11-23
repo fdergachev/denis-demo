@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:ital,wght@0,100..900;1,100..900&display=swap');
+@import '../node_modules/locomotive-scroll/dist/locomotive-scroll';
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+   font-family: 'Libre Franklin', sans-serif;
+   cursor: wait;
+}
